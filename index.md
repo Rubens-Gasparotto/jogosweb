@@ -2,6 +2,6 @@
 
 ### Exemplos de jogos para WEB
 
-[Exercício HTML](../HTML/HTML1_1.html)
+[Exercício HTML](https://rubens-gasparotto.github.io/jogosweb/HTML/HTML1_1.html)
 
-[SVG](../SVG/bandeira_japao.html)
+[SVG](https://rubens-gasparotto.github.io/jogosweb/SVG/bandeira_japao.html)
