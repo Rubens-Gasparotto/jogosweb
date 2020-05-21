@@ -1,0 +1,109 @@
+<html xml:lang="en" lang"en" xmlns="http://www.w3.org/1999/xhmtl">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;" charset="utf-8" />       
+  <title>GAMEOVER</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head> 
+<body>
+  
+<div style="text-align:center">
+
+  <svg xlmns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" viewBox="0 0 300 34">
+    <defs>
+      <style>
+        .cls-1, .cls-2 {
+          font-size: 16px;
+
+        }
+
+        .cls-2 {
+          text-anchor: middle;
+          font-family: "Press Start 2P";
+	  fill: transparent;
+          animation: preenchimento 3s ease-in-out forwards 1;
+      }
+
+      @keyframes preenchimento{
+        to {
+            fill: #BE253F;
+        }
+
+      }
+        
+
+      </style>
+    </defs>
+    <text x="151" y="20" class="cls-1"><tspan x="151" class="cls-2">GAME OVER</tspan></text>
+  </svg>
+
+  <svg width="400" height="300" viewBox="-85 -125 250 250" xlmns="http://www.w3.org/200/svg" xlmns:xlink="http://www.w3.org/1999/xlink">
+      
+    <defs>
+      <style>
+
+      .triangle {
+          animation: loopTriangle 1s ease-in-out infinite alternate;
+
+      } 
+
+      @keyframes loopTriangle {
+        to {
+            transform: rotate(360deg);
+        }
+
+      }        
+
+      </style>
+    </defs>
+  </svg>
+
+  <!--Tamanho da área da figura-->
+  <svg width="400" height="300" viewBox="0 0 200 200" xlmns="http://www.w3.org/200/svg" xlmns:xlink="http://www.w3.org/1999/xlink">
+      
+    <defs>
+      <style>
+      .circle {
+          animation: loopCirculo 1s ease-in-out infinite alternate;
+
+      }    
+      
+      @keyframes loopCirculo {
+        to {
+            transform: translate(3px, 40px);
+        }      
+
+      </style>
+    </defs>
+
+  <!--Criação do meu círculo-->
+    <circle id="circle" class="circle" cx="100" cy="100" r="30" style="fill:#663399; stroke: black"/>
+  </svg>
+ 
+<svg width="400" height="300" viewBox="0 0 200 200" xlmns="http://www.w3.org/200/svg" xlmns:xlink="http://www.w3.org/1999/xlink">
+      
+    <defs>
+      <style>
+
+      .rect {
+          animation: loopRect 1s ease-in-out infinite alternate;
+
+      } 
+
+      @keyframes loopRect {
+        to {
+            transform: translate(40px);
+        }
+
+      }        
+
+      </style>
+    </defs>
+  </svg>
+
+ </div>
+</body> 
+
+</html>
+
+
+

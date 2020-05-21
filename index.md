@@ -6,6 +6,8 @@
 
 [Exercício CSS](https://rubens-gasparotto.github.io/jogosweb/CSS/CSS1_1.html)
 
-[SVG](https://rubens-gasparotto.github.io/jogosweb/SVG/bandeira_japao.html)
+[Imagem SVG](https://rubens-gasparotto.github.io/jogosweb/SVG/bandeira_japao.html)
+
+[Animação SVG](https://rubens-gasparotto.github.io/jogosweb/SVG/animacao.html)
 
 [Aula 12](https://rubens-gasparotto.github.io/jogosweb/AULA12/aula12.html)
