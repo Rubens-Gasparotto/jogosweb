@@ -10,4 +10,4 @@
 
 [Animação SVG](https://rubens-gasparotto.github.io/jogosweb/SVG/animacao.html)
 
-[Aula 12](https://rubens-gasparotto.github.io/jogosweb/AULA12/aula12.html)
+[Iteração SVG](https://rubens-gasparotto.github.io/jogosweb/AULA12/aula12.html)
